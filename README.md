@@ -28,9 +28,6 @@ Proyek ini menganalisis dua dataset listing rumah dari kawasan Jakarta Selatan (
 ```
 .
 ├── Portofolio_Analisis_Harga_Rumah_Jaksel_Tebet.ipynb   # Notebook utama (sudah include output)
-├── data/
-│   ├── DATA_RUMAH.xlsx                # Data rumah Tebet (±1000 baris, ada judul listing)
-│   └── HARGA_RUMAH_JAKSEL.xlsx        # Data rumah Jaksel umum (±1000 baris)
 ├── requirements.txt
 └── README.md
 ```
