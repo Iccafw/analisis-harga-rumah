@@ -2,7 +2,7 @@
 
 ## 📌 Tentang Proyek
 
-Proyek ini menganalisis dua dataset listing rumah dari kawasan Jakarta Selatan (data umum Jaksel dan data spesifik kecamatan Tebet, dikumpulkan dari rumah123.com) untuk menjawab pertanyaan bisnis:
+Proyek ini menganalisis dua dataset listing rumah dari kawasan Jakarta Selatan untuk menjawab pertanyaan bisnis:
 
 1. Seberapa besar perbedaan harga antara pasar Jaksel (umum) dan Tebet (spesifik)?
 2. Faktor apa yang paling memengaruhi harga rumah?
